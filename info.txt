@@ -1,0 +1,6 @@
+Git Credentials:
+Username: FZzEaDx6zuBif016fVmZ362KEeZO3
+Password: Zna6Kswk
+
+Workers URL: https://social-media.eliasfaris.workers.dev/
+Pages URL: https://social-media.eliasfaris.workers.dev/

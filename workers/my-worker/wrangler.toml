@@ -1,0 +1,10 @@
+name = "social-media"
+type = "javascript"
+account_id = "aeee12d70314749c5a3e3e1f1ac4d2ee"
+workers_dev = true
+route = ""
+zone_id = ""
+compatibility_date = "2021-12-10"
+kv_namespaces = [
+  { binding = "SM_DATA", preview_id = "e381cb3e588e48a3b62cec691fd462e6", id = "3b7d2bf52a1d45a4b8cf0f90d4f3132d" }
+]
